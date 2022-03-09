@@ -1,6 +1,6 @@
 # portkill-shell
 ## How to use
-1. move root path
+1. move to root path
 2. open `~/.bashrc` or `~/.zshrc` in vim, vsocde ...
 3. add this function
 
